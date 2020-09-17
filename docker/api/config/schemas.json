@@ -1,0 +1,12 @@
+[
+  {
+    "schema_name": "revo_test",
+    "schema_version": "0.1.0",
+    "attributes": [
+      "cred_num"
+    ],
+    "default": true,
+    "revocable": true,
+    "tag": "revo-load-test"
+  }
+]
